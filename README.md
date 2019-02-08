@@ -23,6 +23,7 @@ Disrespectful
 Inconsiderate
 Criminal/critical
 Know-It-All
- 
+
+Hi ya'll 
 
 We want to do what hackerspaces did for the maker community but for the security community
